@@ -1,0 +1,11 @@
+C:\Users\Андрей\Desktop\Иван\Praktika05\Praktika05\bin\Debug\Praktika05.exe.config
+C:\Users\Андрей\Desktop\Иван\Praktika05\Praktika05\bin\Debug\Praktika05.exe
+C:\Users\Андрей\Desktop\Иван\Praktika05\Praktika05\bin\Debug\Praktika05.pdb
+C:\Users\Андрей\Desktop\Иван\Praktika05\Praktika05\obj\Debug\Praktika05.csprojAssemblyReference.cache
+C:\Users\Андрей\Desktop\Иван\Praktika05\Praktika05\obj\Debug\Praktika05.Form1.resources
+C:\Users\Андрей\Desktop\Иван\Praktika05\Praktika05\obj\Debug\Praktika05.Form2.resources
+C:\Users\Андрей\Desktop\Иван\Praktika05\Praktika05\obj\Debug\Praktika05.Properties.Resources.resources
+C:\Users\Андрей\Desktop\Иван\Praktika05\Praktika05\obj\Debug\Praktika05.csproj.GenerateResource.cache
+C:\Users\Андрей\Desktop\Иван\Praktika05\Praktika05\obj\Debug\Praktika05.csproj.CoreCompileInputs.cache
+C:\Users\Андрей\Desktop\Иван\Praktika05\Praktika05\obj\Debug\Praktika05.exe
+C:\Users\Андрей\Desktop\Иван\Praktika05\Praktika05\obj\Debug\Praktika05.pdb
